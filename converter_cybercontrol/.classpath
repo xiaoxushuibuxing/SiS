@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/DCS.jar"/>
+	<classpathentry kind="lib" path="lib/gb.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="lib/m_common.jar"/>
+	<classpathentry kind="lib" path="lib/mgjep.jar"/>
+	<classpathentry kind="lib" path="lib/net.jar"/>
+	<classpathentry kind="lib" path="lib/pntinfo.jar"/>
+	<classpathentry kind="lib" path="lib/trend.jar"/>
+	<classpathentry kind="lib" path="lib/Utils.jar"/>
+	<classpathentry kind="output" path="out/production/converter_CyberControl"/>
+</classpath>
